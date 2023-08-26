@@ -7,7 +7,7 @@ defmodule IsometricApiWeb.Endpoint do
   @session_options [
     store: :cookie,
     key: "_isometric_api_key",
-    signing_salt: "8OgStlLE",
+    signing_salt: "av9G4YJv",
     same_site: "Lax"
   ]
 

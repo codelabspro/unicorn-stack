@@ -19,7 +19,7 @@ config :isometric_api, IsometricApiWeb.Endpoint,
     layout: false
   ],
   pubsub_server: IsometricApi.PubSub,
-  live_view: [signing_salt: "rkOj0W/Z"]
+  live_view: [signing_salt: "R9RJpVcK"]
 
 # Configures Elixir's Logger
 config :logger, :console,

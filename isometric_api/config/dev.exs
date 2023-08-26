@@ -23,7 +23,7 @@ config :isometric_api, IsometricApiWeb.Endpoint,
   check_origin: false,
   code_reloader: true,
   debug_errors: true,
-  secret_key_base: "sRVwOfmy9H67KektaBu5y5hJaLP2HxdrwAUYv8/MV/n0B2J1rjNq3dvsyWfHqVtQ",
+  secret_key_base: "Dn0eEJoFPdbGK/6p0ltVPpPIeVe13dSEOxpxoEIwWRkuWD+2YgLqilDQbdAqu6Vp",
   watchers: []
 
 # ## SSL Support

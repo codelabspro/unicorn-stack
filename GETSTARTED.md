@@ -24,9 +24,9 @@ mix archive.install hex phx_new
 ### Scaffold a new Phoenix project
 
 ```
-mix phx.new isometric_api --no-install --app isometric_api --database postgres --no-live --no-assets --no-html --no-dashboard --no-mailer --binary-id
+mix phx.new isometric-api --no-install --app isometric_api --database postgres --no-live --no-assets --no-html --no-dashboard --no-mailer --binary-id
 
-==> mix phx.new isometric_api --no-install --app isometric_api --database postgres --no-live --no-assets --no-html --no-dashboard --no-mailer --binary-id
+==> mix phx.new isometric-api --no-install --app isometric_api --database postgres --no-live --no-assets --no-html --no-dashboard --no-mailer --binary-id
 * creating isometric_api/config/config.exs
 * creating isometric_api/config/dev.exs
 * creating isometric_api/config/prod.exs

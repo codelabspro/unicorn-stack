@@ -17,7 +17,7 @@ config :isometric_api, IsometricApi.Repo,
 # you can enable the server option below.
 config :isometric_api, IsometricApiWeb.Endpoint,
   http: [ip: {127, 0, 0, 1}, port: 4002],
-  secret_key_base: "/UQL8EzP6+90ug896Ft6ZK4oAL7+AxdZoiSbW1+ya9rcqS3FJGfkk6cVyXsZWruH",
+  secret_key_base: "IKxNJ/+XMdQhxEWyxK/dVdnGsmepVi/ncQMfWuSymdicQXqkPqfj9RPAY6CjA2iB",
   server: false
 
 # Print only warnings and errors during test
