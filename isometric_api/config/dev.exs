@@ -2,8 +2,8 @@ import Config
 
 # Configure your database
 config :isometric_api, IsometricApi.Repo,
-  username: "postgres",
-  password: "postgres",
+  username: "unicorn_user",
+  password: "unicorn_password",
   hostname: "localhost",
   database: "isometric_api_dev",
   stacktrace: true,
