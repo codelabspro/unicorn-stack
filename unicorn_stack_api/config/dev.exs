@@ -2,8 +2,8 @@ import Config
 
 # Configure your database
 config :unicorn_stack_api, UnicornStackApi.Repo,
-  username: "postgres",
-  password: "postgres",
+  username: "unicorn_user",
+  password: "unicorn_password",
   hostname: "localhost",
   database: "unicorn_stack_api_dev",
   stacktrace: true,

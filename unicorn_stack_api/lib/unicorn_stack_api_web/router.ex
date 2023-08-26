@@ -7,5 +7,6 @@ defmodule UnicornStackApiWeb.Router do
 
   scope "/api", UnicornStackApiWeb do
     pipe_through :api
+    get "/", DefaultController, :index
   end
 end
