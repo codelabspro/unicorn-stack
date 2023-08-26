@@ -1,4 +1,4 @@
-# IsometricApi
+# Unicorn Stack
 
 To start your Phoenix server:
 

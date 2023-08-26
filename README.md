@@ -1,2 +1,2 @@
-# Isometric
-Isometric is a realtime SaaS written in Elixir, Phoenix, LiveView
+# Unicorn Stack
+Unicorn Stack is a realtime SaaS written in Elixir, Phoenix, LiveView
