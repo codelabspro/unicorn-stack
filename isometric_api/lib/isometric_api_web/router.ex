@@ -7,5 +7,6 @@ defmodule IsometricApiWeb.Router do
 
   scope "/api", IsometricApiWeb do
     pipe_through :api
+    get "/", DefaultController, :index
   end
 end
